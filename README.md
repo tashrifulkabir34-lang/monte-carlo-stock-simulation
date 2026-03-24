@@ -8,7 +8,7 @@
 
 A Monte Carlo simulation of future stock price paths for **Nvidia (NVDA)** — the #1 weighted component of the S&P 500 (~7.17%) — using **Geometric Brownian Motion (GBM)**.
 
-Inspired by the TikTok-format educational breakdown of Monte Carlo methods applied to real-world probability problems.
+
 
 ---
 
