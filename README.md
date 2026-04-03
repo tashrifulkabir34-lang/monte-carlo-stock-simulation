@@ -53,7 +53,7 @@ The simulation produces:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/monte-carlo-stock-simulation.git
+git clone https://github.com/tashrifulkabir34-lang/monte-carlo-stock-simulation.git
 cd monte-carlo-stock-simulation
 pip install -r requirements.txt
 ```
